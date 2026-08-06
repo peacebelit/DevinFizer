@@ -52,5 +52,5 @@ The research also examines whether safeguards such as explicit consent, source l
 
 ## Contact
 
-- LinkedIn: [Add your LinkedIn URL]
+- LinkedIn: https://www.linkedin.com/in/devin-fizer-7b1631296/
 - Academic email: 920074849@student.ccga.edu
